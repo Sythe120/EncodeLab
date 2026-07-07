@@ -1,0 +1,1 @@
+document.querySelector('.btn').onclick=e=>{e.preventDefault();alert('Replace this with your iCloud Shortcut link!')}
